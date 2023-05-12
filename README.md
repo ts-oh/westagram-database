@@ -1,3 +1,3 @@
 # westagram-database
 
-Migration 과제2...
+Migration 과제2... 🦧
